@@ -1,2 +1,2 @@
 ﻿# Picture
-存储readme中所需要的图片
+存储readme中所需图片
